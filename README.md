@@ -7,7 +7,6 @@ Meu nome é Samara Alves, tenho 20 anos e sou natural de Brasília. Atualmente, 
 ---
 
 ### ⚙️Principais Tecnologias
-<BR>
 <img 
     align="left" 
     alt="HTML"
