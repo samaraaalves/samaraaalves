@@ -77,17 +77,6 @@ Meu nome é Samara Alves, tenho 20 anos e sou natural de Brasília. Atualmente, 
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=samaraaalves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
