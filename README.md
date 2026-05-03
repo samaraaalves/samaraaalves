@@ -1,4 +1,4 @@
-# 🧚 Samara Alves
+# 🦢 Samara Alves
 
 **`Desenvolvedora Front-End e Database`**
 
