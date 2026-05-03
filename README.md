@@ -1,4 +1,4 @@
-# 🦢 Samara Alves
+# 🧚 Samara Alves
 
 **`Desenvolvedora Front-End e Database`**
 
@@ -11,6 +11,7 @@ Meu nome é Samara Alves, tenho 20 anos e sou natural de Brasília. Atualmente, 
     align="left" 
     alt="HTML"
     title="HTML" 
+
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
