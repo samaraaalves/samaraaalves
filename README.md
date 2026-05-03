@@ -15,7 +15,7 @@ Meu nome é Samara Alves, tenho 20 anos e sou natural de Brasília. Atualmente, 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-/>
+
 <img 
     align="left" 
     alt="CSS" 
